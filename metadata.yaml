@@ -1,0 +1,5 @@
+homepage: "https://getfoxchat.com"
+documentation: "https://github.com/OsakaSaul/getfoxchat-gtm-template#readme"
+versions:
+  - sha: d36eaac3ab00f19f170048d041db895b3937a8f1
+    changeNotes: First release. One field, Site ID; loads the GetFoxChat widget once per page.
